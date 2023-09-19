@@ -2,4 +2,4 @@
 layout: default
 ---
 # Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+I'm Evandro Amparo. I'm an software engineer from Brazil.
