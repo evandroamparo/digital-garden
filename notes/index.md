@@ -1,7 +1,8 @@
 ---
-title: About these notes
+title: Sobre estas notas
 ---
-# About these Notes
-These are my notes. Feel free to poke around. I will update these pages as new ideas come up.
+# Sobre estas notas
 
-Siga meu canal no [[whatsapp]]
+Estas são minhas anotações. Fique à vontade para explorar. Vou atualizar estas páginas na medida que novas ideias surgirem.
+
+Siga meu canal no [[whatsapp]].
